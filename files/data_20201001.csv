@@ -1,0 +1,3 @@
+fund_id,fund_name,price,shares_weighting,bonds_weighting,commodities_weighting,cash_weighting
+1,"Gold, Aktien und Bonds",65,0.65,0.1,0.15,0.1
+2,Euro Bond,950,0.15,0.4,0.2,0.25
